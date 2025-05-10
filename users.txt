@@ -1,0 +1,8 @@
+Ahmed,ahmed@example.com,1234,Customer
+Sarah,sarah@kitchen.com,chefpass,Chef
+Yousef,yousef@supplier.com,supply123,Supplier
+Mona,mona@admin.com,adminpass,SystemAdmin
+rama,rama@gmail.com,1234,Customer
+rama,rama2@gmail.com,1234,Customer
+sara,sara@gmail.com,1234,Chef
+ali,ali@gmail.com,1234,KitchenManager

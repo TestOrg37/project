@@ -1,0 +1,11 @@
+Supplier:FreshFoods
+Email:fresh@foods.com
+Item:Tomato:2.5:2.0:200:Available ✅
+Item:Cheese:5.0:4.5:0:Unavailable ❌
+Item:Milk:3.5:3.0:180:Available ✅
+
+Supplier:OrganicFarm
+Email:organic@farm.com
+Item:Tomato:2.6:2.1:0:Unavailable ❌
+Item:Lettuce:1.3:1.0:180:Available ✅
+Item:Cheese:5.2:4.8:90:Available ✅

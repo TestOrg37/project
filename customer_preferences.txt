@@ -1,0 +1,18 @@
+customer2@example.com: KETO,Nuts
+customer3@example.com: Asian,None
+rama@gmail.com: None,Nonetest@example.com: Vegetarian,Nuts
+loadtest@example.com: Keto,Gluten
+customer@example.com: Vegetarian,None
+customer@example.com: Vegetarian,Nuts
+customer@example.com: Vegetarian,None
+customer@example.com: Vegetarian,Nuts
+customer@example.com: Vegetarian,None
+customer@example.com: Vegetarian,Nuts
+laila@example.com: Vegetarian,Gluten
+laila@example.com: Italian,None
+laila@example.com: Italian,None
+laila@example.com: Vegetarian,Gluten
+laila@example.com: Italian,None
+laila@example.com: Italian,None
+laila@example.com: Vegetarian,Gluten
+laila@example.com: Vegetarian,Gluten

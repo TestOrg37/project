@@ -1,0 +1,10 @@
+Basil:98
+Chicken:500
+Pasta:998
+Cheese:198
+Olive Oil:50
+Beef:600
+Tomato:100
+Cucumber:100
+Tomato Sauce:300
+Bread:20

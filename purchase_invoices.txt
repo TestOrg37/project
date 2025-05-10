@@ -1,0 +1,14 @@
+Supplier: FreshFoods
+Email: fresh@foods.com
+Item: Tomato
+Quantity: 70
+Total Price: 175.0
+---
+
+Supplier: FreshFoods
+Email: fresh@foods.com
+Item: Tomato
+Quantity: 70
+Total Price: 175.0
+---
+
